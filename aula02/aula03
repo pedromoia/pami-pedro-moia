@@ -1,0 +1,15 @@
+// Declarações de variaveis
+let produto: string = 'Mouse';
+let preco: number = '59.90';
+let disponivel: boolean = true;
+
+// Arrays
+cosole.log('produto: $ {produto}');
+console.log('preco: R$ $ {preco}');
+console.log('disponivel: $ {disponivel}';
+
+
+
+
+console.log("no github");
+
